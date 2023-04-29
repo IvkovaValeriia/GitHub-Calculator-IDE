@@ -10,7 +10,7 @@ public class Main {
     static int g;
 
     public static void main(String[] args) {
-        System.out.println("My app for Users!");
+        System.out.println("Calculator for base calculations");
         System.out.println("Version 1.0");
         a = 8;
         b = 2;
